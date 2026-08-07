@@ -37,9 +37,13 @@
 
 ## 📊 GitHub Stats
 
-![Rawnaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawnaqqureshi&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rawnaqqureshi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawnaqqureshi&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rawnaqqureshi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
