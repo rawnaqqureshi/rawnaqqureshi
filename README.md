@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-![Rawnaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawnaqqureshi&show_icons=true&theme=tokyonight&hide_border=true)
+![Rawnaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawnaqqureshi&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawnaqqureshi&layout=compact&theme=tokyonight&hide_border=true)
 
