@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Rawnaq! 👋
 
 🎓 **CSE Student**  
@@ -48,4 +47,3 @@
 
 - 📧 Email: mrawnaqqureshi_cse255a0530@mgit.ac.in
 - 💼 LinkedIn: [https://linkedin.com/in/mohd-rawnaq-qureshi](https://www.linkedin.com/in/mohd-rawnaq-qureshi-8502ab366?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-```
